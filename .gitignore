@@ -1,0 +1,45 @@
+# Dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Build files
+dist/
+build/
+
+# Sass files
+*.sass
+.sass-cache/
+
+# Compiled CSS maps
+*.css.map
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Temporal files
+temp/
+tmp/
+*.tmp
+
+# Logs
+logs/
+*.log
+
+# Trash
+trash/
+*.bak
