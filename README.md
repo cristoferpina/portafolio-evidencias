@@ -4,7 +4,9 @@
 
 # Portafolio de evidencias
 
-Prácticas de desarrollo frontend: desde layouts hasta temas e interacción.
+**Aprender frontend construyendo interfaces.**
+
+Una colección de prácticas que recorre distintas formas de diseñar para la web: Grid, Flexbox, Bootstrap, temas y efectos visuales.
 
 <img alt="HTML" src="https://img.shields.io/badge/HTML-0F172A?style=for-the-badge" />
 <img alt="CSS" src="https://img.shields.io/badge/CSS-1D4ED8?style=for-the-badge" />
@@ -15,6 +17,17 @@ Prácticas de desarrollo frontend: desde layouts hasta temas e interacción.
 [Código fuente](https://github.com/cristoferpina/portafolio-evidencias) &nbsp; / &nbsp; [Incidencias](https://github.com/cristoferpina/portafolio-evidencias/issues) &nbsp; / &nbsp; [Perfil](https://github.com/cristoferpina)
 
 </div>
+
+## Una mirada al proyecto
+
+| Qué encontrarás | Por qué explorarlo |
+| --- | --- |
+| Aprender frontend construyendo interfaces. | Una colección de prácticas que recorre distintas formas de diseñar para la web: Grid, Flexbox, Bootstrap, temas y efectos visuales. |
+| Trabajo de desarrollo | Variedad de técnicas de maquetación y estilos, con proyectos separados para explorar cada enfoque. |
+
+**[Explora el proyecto integrador →](PROYECTO/)**
+
+
 
 ---
 
