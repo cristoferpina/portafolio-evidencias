@@ -1,4 +1,16 @@
-# 📚 Portafolio de Evidencias - Desarrollo Web Frontend
+<div align="center">
+
+# 📚 Portafolio de evidencias
+
+Prácticas de desarrollo frontend: desde layouts hasta temas e interacción.
+
+**HTML · CSS · JavaScript**
+
+[Explorar código](https://github.com/cristoferpina/portafolio-evidencias) · [Reportar un problema](https://github.com/cristoferpina/portafolio-evidencias/issues)
+
+</div>
+
+---
 
 Este repositorio contiene un conjunto de proyectos prácticos que demuestran habilidades en HTML, CSS y JavaScript. Cada proyecto es una evidencia de aprendizaje en diferentes tecnologías y técnicas de desarrollo web frontend.
 
